@@ -2,6 +2,8 @@
 
 I can feel it, you're hungry. let me get you a burger in the blink of an eye! a complete, featureful and fantsy delivery application built in flutter ( with the help of GetX ) and fastapi.
 
+note: client and server are two seprated projects embedded in one repository. if you wish, you can connect them together :)
+
 
 # Preview:
 
