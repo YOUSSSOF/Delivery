@@ -1,0 +1,10 @@
+autopep8
+fastapi
+passlib
+sqlalchemy
+uvicorn
+bcrypt
+python-jose
+cryptography
+python-multipart
+aiofiles
