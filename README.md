@@ -45,6 +45,3 @@ fastapi:
 ```
 
 enjoy!
-
-
-Design source: 
