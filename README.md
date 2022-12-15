@@ -28,7 +28,7 @@ server:
 - Foods and restaurants detail page.
 
 
-## Instalation:
+## Installation:
 
 flutter:
 ```
