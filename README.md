@@ -19,7 +19,7 @@ server:
 
 ## Features:
 
-- An introduction page to show the capabilies of your app.
+- An introduction page to show the capabilities of the app.
 - Authentication with sms ( register + login ) and code verification page.
 - Home page with the list of newsest food and restaurants + searching.
 - Card page where you can add your bank card.
